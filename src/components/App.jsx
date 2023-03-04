@@ -56,7 +56,6 @@ export class App extends Component {
 
   render() {
     const { filter } = this.state;
-
     return (
       <div
       style={{
